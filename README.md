@@ -1,6 +1,8 @@
 # git-acl-wrapper
 
-git-http-backend ACL wrapper
+git-http-backend ACL wrapper. Based on xrunhprof wrapper for git-http-backend
+
+http://xrunhprof.wordpress.com/2010/06/01/trac-and-git-http-backend/
 
 ## Why would I need this?
 
@@ -56,7 +58,7 @@ If is there an **acl.conf** file inside the repository, it will be used, no matt
 This wrapper is licensed under MIT License. So, feel free for used it,
 with no restrictions (but I'm not responsible for it's usage in your code).
 
-For more information, see the MIT-LICENSE.txt file
+For more information, see the LICENSE file
 
 ### Do you know (or want) to enhance this wrapper?
 
